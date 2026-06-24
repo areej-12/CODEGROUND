@@ -33,5 +33,3 @@ print(f"Add:{a>b}\n Sub:{a<b}\n Mult:{a>=b}")
 print(a>10 and b<10) # True if both are True
 print(a>10 or b<10) # True if both are True
 print(not(a>10)) # True if both are True
-
-
